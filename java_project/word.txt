@@ -1,0 +1,4 @@
+dog : 강아지
+cat : 고양이
+apple : 사과
+orange : 오렌지
